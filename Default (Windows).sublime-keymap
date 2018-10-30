@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+shift+f"], "command": "reindent", "args": { "single_line": false } },
+    { "keys": ["ctrl+shift+x"], "command": "toggle_comment", "args": { "block": false } },  
+]
